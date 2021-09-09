@@ -1,0 +1,29 @@
+{
+  "name": "hapi-blog",
+  "version": "1.0.0",
+  "description": "hapi demo blog",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richienabuk/hapi-blog.git"
+  },
+  "keywords": [
+    "demo",
+    "blog",
+    "nodejs",
+    "hapijs"
+  ],
+  "author": "Richie Nabuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richienabuk/hapi-blog/issues"
+  },
+  "homepage": "https://github.com/richienabuk/hapi-blog#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.5"
+  }
+}
